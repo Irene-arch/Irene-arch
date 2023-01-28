@@ -2,12 +2,18 @@
   <a href="https://www.linkedin.com/in/irene-nafula-26210a175/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.youtube.com/channel/UCaEnuGKGWscOZTWAmJDXyrQ">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+  <a href="https://medium.com/@irenenafula">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
 </div>
 
-- 👋 Hi, I’m Irene Nafula
-- 👀 I’m a data analyst, I love web scraping and digital forensics. Will do machine learning in the near future.
-- 🌱 I’m currently learning data analysis and creating content for my [youtube channel](https://www.youtube.com/channel/UCaEnuGKGWscOZTWAmJDXyrQ)
-- 💞️ I’m looking to collaborate on data analysis projects volunteer or otherwise.
+- 👋 Hi, I’m Irene Nafula.
+- 👀 I’m a data analyst who enjoys documenting her learning journey.
+- 🌱 I’m currently learning PowerBI and storytelling.
+- 💞️ I’m open to collaborate on data analysis projects; volunteer or otherwise.
 - 📫 Let's connect on instagram @herdataproject and read my articles on [Medium](https://medium.com/@irenenafula)
 
 ## Skills and Tools: <div>
