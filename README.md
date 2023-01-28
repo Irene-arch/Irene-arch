@@ -5,7 +5,7 @@
 </div>
 
 - 👋 Hi, I’m Irene Nafula
-- 👀 I’m interested in data analysis, web scraping and digital forensics. Might do machine learning in the future.
+- 👀 I’m a data analyst, I love web scraping and digital forensics. Will do machine learning in the near future.
 - 🌱 I’m currently learning data analysis and creating content for my [youtube channel](https://www.youtube.com/channel/UCaEnuGKGWscOZTWAmJDXyrQ)
 - 💞️ I’m looking to collaborate on data analysis projects volunteer or otherwise.
 - 📫 Let's connect on instagram @herdataproject and read my articles on [Medium](https://medium.com/@irenenafula)
