@@ -31,7 +31,7 @@
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/> </a>
   <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" title="PowerBI" alt="PowerBI" width="60" height="60"/> </a>
 
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=irene-arch&hide=prs,issues,contribs&show_icons=true&title_color=007a74&hide_rank=true)](https://github.com/irene-arch/github-readme-stats)
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=irene-arch&issues,prs=true&hide=contribs&show_icons=true&title_color=007a74&hide_rank=true)](https://github.com/irene-arch/github-readme-stats)
 
 <!---
 Irene-arch/Irene-arch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
